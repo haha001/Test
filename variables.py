@@ -1,4 +1,7 @@
 
+
+
+"""
 x = "There are %d kinds of people." % 10
 binary = "binary"
 do_not = "don't"
@@ -19,7 +22,7 @@ w = "This is the left side of..."
 e = "a string with a right side"
 
 print (w + e)
-
+"""
 
 
 
